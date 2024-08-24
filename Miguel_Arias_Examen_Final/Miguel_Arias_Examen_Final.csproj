@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DB_data\DBimage1.png" />
+    <Content Include="DB_data\DBimage2.png" />
     <Content Include="Vistas\Contenido.css" />
     <Content Include="Vistas\ContenidoMenu.css" />
     <Content Include="Vistas\Login.aspx" />
